@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1674171159612" clover="3.2.0">
+  <project timestamp="1674171159612" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="5" elements="20" coveredelements="16" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1"/>
+    <file name="exercises.js" path="/home/crislp/Unit9/writing-unit-tests-lab-1-Crisp/exercises.js">
+      <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="5"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="6" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="8" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="7" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
